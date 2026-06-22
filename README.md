@@ -21,7 +21,13 @@ git commit -m "Mi primer aporte al taller"
 git push
 ```
 
-## Participantes del taller
+---
 
-<!-- Agregá tu nombre acá, ejemplo: - tunombredeusuario -->
+# Lo que aprendí hoy
 
+*Cada participante agrega su capítulo abajo con su nombre y escribe 2-3 líneas sobre su experiencia en el taller.*
+
+## Ariel Alegre
+Hoy aprendí que Git y GitHub no son solo herramientas para programadores — son herramientas de colaboración para cualquier persona que trabaje con archivos. Y que con una IA al lado, la barrera de entrada desaparece.
+
+<!-- Agregá tu capítulo acá — copiá el bloque de arriba y completá con tu nombre y tu experiencia -->
